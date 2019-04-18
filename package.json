@@ -1,0 +1,19 @@
+{
+  "name": "rgb-to-hex",
+  "version": "1.0.0",
+  "description": "Converts rgb vaules to equivalent hex values",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/miketoth/rgb-to-hex.git"
+  },
+  "author": "miketoth",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/miketoth/rgb-to-hex/issues"
+  },
+  "homepage": "https://github.com/miketoth/rgb-to-hex#readme"
+}
